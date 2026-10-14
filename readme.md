@@ -1,1 +1,1 @@
-![911_GT2_RS](assets\manhart-tr-700-ii-3840x2160-19774.jpg)
+![911_GT2_RS](assets/manhart-tr-700-ii-3840x2160-19774.jpg)
