@@ -56,4 +56,4 @@ git tag
 git tag -d v1.7
 git push origin --delete v1.7
 
-![manhart-tr-700-ii-3840x2160-19774](assests\manhart-tr-700-ii-3840x2160-19774.jpg)
+![manhart-tr-700-ii-3840x2160-19774](assets\manhart-tr-700-ii-3840x2160-19774.jpg)
